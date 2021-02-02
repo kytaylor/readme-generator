@@ -1,6 +1,7 @@
   # readme-generator
   A generator to help you quickly build a readme for your project. Using Inquirer, you can enter in all necessary information about your project using node.js and it will build a readme for your project.
 
+  ![Image1](https://github.com/kytaylor/readme-generator/blob/main/Untitled_%20Feb%201%2C%202021%203_55%20PM.gif)
   
 
   ## Table of Contents
